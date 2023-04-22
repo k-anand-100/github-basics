@@ -1,1 +1,2 @@
-This file is modified to check the branch track feature. Try to merge this text from local tracking branch
+This file is modified to check the branch track feature. Changed in GitHub
+ Try to merge this text from local tracking branch
